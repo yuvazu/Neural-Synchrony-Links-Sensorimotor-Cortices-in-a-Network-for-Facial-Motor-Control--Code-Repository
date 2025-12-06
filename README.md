@@ -1,5 +1,5 @@
 ## Neural Synchrony Links Sensorimotor Cortices in a Network for Facial Motor Control
-This repository contains all the code and scripts for reproducing the figures in: Neural Synchrony Links Sensorimotor Cortices in a Network for Facial Motor Control -Code Repository
+Code and scripts for reproducing the figures in this study.
 
 ## Repository structure
 - Figure 2/ ( Functional connectivity, eLFPs)
